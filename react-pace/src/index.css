@@ -1,3 +1,9 @@
-
-
+.prod {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: stretch;
+    padding: 20px;
+}
 
