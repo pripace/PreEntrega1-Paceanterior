@@ -1,6 +1,7 @@
 import React from "react";
 import Form from "./Form";
 import Barra from "./Barra";
+import Icono from "./Icono";
 
 const Navbar = () => {
   const listBarra = ["Inicio", "Productos", "Preguntas frecuentes", "Nosotros"]
@@ -12,6 +13,7 @@ const Navbar = () => {
           <ul className="navbar-nav me-auto">
             <Barra contenido={listBarra}/>
             </ul>
+            <Icono/>
             <Form busqueda="estoy buscando..."/>
           </div>
         </div>
