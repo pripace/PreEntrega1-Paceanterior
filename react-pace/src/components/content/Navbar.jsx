@@ -1,7 +1,7 @@
 import React from "react";
-import Form from "./Form";
-import Barra from "./Barra";
-import Icono from "./Icono";
+import Form from "../layouts/Form";
+import Barra from "../layouts/Barra";
+import Icono from "../cartIcon/Icono";
 
 const Navbar = () => {
   const listBarra = ["Inicio", "Productos", "Preguntas frecuentes", "Nosotros"]

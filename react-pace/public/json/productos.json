@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "nombre": "Mat",
+        "precio": 10000,
+        "stock": 30,
+        "img": "src/assets/mat.jpg"
+
+    },
+    {
+        "id": 2,
+        "nombre": "Cubos",
+        "precio": 2000,
+        "stock": 15,
+        "img": "src/assets/cubo.jpg"
+
+    },
+    {
+        "id": 3,
+        "nombre": "Cintos",
+        "precio": 1500,
+        "stock": 15,
+        "img": "src/assets/cinto.jpg"
+
+    },
+    {
+        "id": 4,
+        "nombre": "Zafu",
+        "precio": 3500,
+        "stock": 10,
+        "img": "src/assets/zafu.jpg"
+
+    }
+]
